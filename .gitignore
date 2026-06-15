@@ -1,0 +1,14 @@
+-e bin/
+obj/
+node_modules/
+wwwroot/assets/
+data/
+*.db
+.env
+TASK*.md
+PLAN.md
+ULW_TASK.txt
+*.cs.bak
+vrcx-reference*/
+.hermes/
+

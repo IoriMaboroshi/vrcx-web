@@ -1,9 +1,0 @@
-ULW Read TASK.md carefully. 
-
-Step 1: Fix critical bugs:
-- GET /api/friends/:userId returns "Friend not found" 
-- Only offline friends shown
-
-Step 2: Implement Phase 1 features from TASK.md.
-
-Rules: READ vrcx-reference/ first. Reference VRCX code. Cookie auth not Bearer. n=100 max.
